@@ -6,8 +6,8 @@
 
 
 ### Purpose of repository
- -Supplements personal website with code examples from personal projects.
- -Organizes projects into a single space for easier access.
+ - Supplements personal website with code examples from personal projects.
+ - Organizes projects into a single space for easier access.
 
 ### Index
 + [Social Media Caption Generator](https://github.com/Justross99/Personal-Projects/tree/main/Social%20Media%20Caption%20Generator)
