@@ -1,13 +1,13 @@
 # Personal Projects
  Repository for my personal projects of my portfolio
 
-### Link to personal website
-[rossjohn.dev](https://www.rossjohn.dev)
+<!-- ### Link to personal website
+[rossjohn.dev](https://www.rossjohn.dev) -->
 
 
-### Purpose of repository
+<!-- ### Purpose of repository
  - Supplements personal website with code examples from personal projects.
- - Organizes projects into a single space for easier access.
+ - Organizes projects into a single space for easier access. -->
 
 ### Index
 + [Social Media Caption Generator](https://github.com/Justross99/Personal-Projects/tree/main/Social%20Media%20Caption%20Generator)
@@ -24,4 +24,5 @@
     * Records Information to Track Progress
 
 ### Contact
-[contact@rossjohn.dev](mailto:contact@rossjohn.dev)
+[RossDJohn14@gmail.com](mailto:RossDJohn14@gmail.com)
+<!-- [contact@rossjohn.dev](mailto:contact@rossjohn.dev) -->
