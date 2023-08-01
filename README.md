@@ -19,9 +19,10 @@
 + [US Unemployment Rate Forecast](https://github.com/Justross99/Personal-Projects/tree/main/US%20Unemployment%20Rate%20Forecast)
     * Ensemble of Models Used to Predict Future Unemployment Rate in the United States
     * Projection of 95% confidence interval for interpretation of results
-+ [Exercise & Nutrition Tracking Assistant](https://github.com/Justross99/Personal-Projects/tree/main/Exercise%20%26%20Nutrition%20Tracking%20Assistant)
+
+<!-- + [Exercise & Nutrition Tracking Assistant](https://github.com/Justross99/Personal-Projects/tree/main/Exercise%20%26%20Nutrition%20Tracking%20Assistant)
     * Python Scripts to Automatically Open and Close Applications 
-    * Records Information to Track Progress
+    * Records Information to Track Progress -->
 
 ### Contact
 [RossDJohn14@gmail.com](mailto:RossDJohn14@gmail.com)
